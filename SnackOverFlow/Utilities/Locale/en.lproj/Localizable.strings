@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  SnackOverFlow
+
+  Created by MAA on 4.10.2022.
+  
+*/
+"signInFacebook" = "Sing In with Facebook";
+"signInGoogle" = "Sing In with Google";
+"signInApple" = "Sing In with Apple";
+"signUpWithEmail" = "Sing Up with Email";
+
+// Login
+"welcomeBack" = "Welcome Back!";
+"createAccount" = "Create Account";
+"termsAndCondition" = "By clicking \"Create account\", I agree to SnackOverflow’s [TOS](www.google.com) and [Privacy Policy](www.google.com).";
+
+// Button
+"getStarted" = "Get started";
+
+// General
+"emailHint" = "Write your email";
+"passwordHint" = "Write your password";
